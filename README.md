@@ -19,14 +19,10 @@ Instalación
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
 Clona el repositorio:
-
-bash
-Copy code
-git clone https://github.com/tu-usuario/encriptador-texto.git
+ 
+git clone https://github.com/arieldislas/proyectoalura.git
 Navega al directorio del proyecto:
 
-bash
-Copy code
 cd encriptador-texto
 Abre el archivo index.html en tu navegador.
 
